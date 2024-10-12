@@ -1,0 +1,3 @@
+- ✋ Hello I'm @CityMakerDevelopment!
+- 👍 I like developing games like CityMaker!
+- 🏙️ CityMaker is a City simulator with a working economy and advanced services.
